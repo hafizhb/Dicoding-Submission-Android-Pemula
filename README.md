@@ -5,4 +5,4 @@ Aplikasi ini bertema archive sejumlah servant (character) dari game mobile Fate/
 
 **Screenshot**
 
-![screenshot](https://github.com/hafizhb/Dicoding-Submission-Android-Pemula/assets/99695296/fb383d56-20b1-4d78-be55-8cca7f76f613)
+![screenshot](https://github.com/hafizhb/Dicoding-Submission-Android-Pemula/assets/99695296/b7f944ac-cf5c-480b-9c2a-d67d97683a60)
